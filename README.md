@@ -9,7 +9,7 @@ A different way to learn. I, Barba, have been in web3 for about 6 months(01/2024
 So BG-IW will be built to do this. To integrate building, interacting, and onboarding everyone who wants to learn about the ecosystem without costing any money to those who want to learn.
 
 ### *<drama.moment>* With all my A HUNDRED EIGHT THREE days of experience, I reached the following opinion...*</drama.moment>*
-- For those who want to be developers, would be nice if they build something that is used daily on the web3 ecosystem, and not just build, but first learn how it works and what is the purpose of that.
+- For those who want to be developers, would be nice if they build something that is used daily on the web3 ecosystem, and not just build, but learn how it works and what is the purpose of that.
 - For those who just want to interact and invest, would be nice if they knew how protocol A or B works and what they should expect. This way, we can prevent hacks in general.
 
 And now? What is your opinion about our interplanetary weapon? Looks like a bad thing yet?
