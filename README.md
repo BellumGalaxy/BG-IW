@@ -17,6 +17,7 @@ And now? What is your opinion about our interplanetary weapon? Looks like a bad 
 Oh, you are tough, aren't you? Let's keep going.
 
 ## How it works?
+**Under development.**
 
 ## Who is the target audience?
 This weapon will be built to be utilized by anyone. The goal is that after you take the "milk way" you never get lost again.
@@ -25,7 +26,35 @@ This weapon will be built to be utilized by anyone. The goal is that after you t
 
 That being said, after finishing this journey, you will be a ruthless traveler who will fear no more. That will not depend on other people's opinions because you will know how to **DO YOUR RESEARCH**.
 
-## I want to help build this!
+## How this awesome, super, ultra weapon will be built?
+### Features
+- Blockchain basics
+- Web3 ecosystem
+- Dynamic NFTs
+- Stablecoins
+- Swapping
+- Cross-chain transfers
+- Borrowing
+- GameFI integration
+- Draws
+- Hack simulation
+- Developing tutorials
+   - Developer environment
+   - Solidity best practices
+- "How it works" tutorials
+- Chainlink Tools tutorials
+   - What is Chainlink and why is important to blockchains.
+   - Use cases
+
+### Tools
+- Chainlink Data Feeds
+- Chainlink CCIP
+- Chainlink VRF
+- Chainlink Functions
+- Chainlink Automation
+- GameFI platform
+
+## I want to help build this ASAP!
 Oh, thanks for demonstrating such courage, determination, and passion. We would love to get your help!
 Please let the other guys know that you want to help, they don't read minds like I did when you stated that.
 
@@ -33,3 +62,5 @@ Enter our [discord](https://discord.gg/H2UpdzbbRJ) channel and send a message in
 
 ## I have a community. Can I implement this there?
 Shure! Once it's done, any community that wants to deliver some awesome content and teach members some basic and advanced stuff in a simple way can implement it. We will help. Get into our [discord](https://discord.gg/H2UpdzbbRJ) and send a message.
+
+May the beard be with you!
