@@ -1,6 +1,6 @@
 # Guidelines
 
-BG-IW isn't only a educational project, is a opportunity to get used to apply best practices. So, if you want to help us build a awesome project that will help onboard people in a interactive way, please follow the guidelines below.
+BG-IW isn't only an educational project, is an opportunity to get used to applying best practices. So, if you want to help us build an awesome project that will help onboard people in an interactive way, please follow the guidelines below.
 
 ## Imports
 Always use named imports. Example:
@@ -18,7 +18,7 @@ Always starts the event name with ContractName__VerboseEventName();
 
 ## CEI
 
-Follow the Checks, Effects and Interaction pattern.
+Follow the Checks, Effects, and Interaction pattern.
 
 ## Variables
 If not immutable or constant, variables must be private. Create get functions if you need to access them externally.
@@ -29,11 +29,11 @@ If not immutable or constant, variables must be private. Create get functions if
 
 ## Storages
 
-Always use s_name for storages.
+Always use s_name for storage.
 
 ## Functions
 
-Be precise. Ask yourself if a function can't have a more restrict visibility, if not, ok!
+Be precise. Ask yourself if a function can't have a more restricted visibility, if not, ok!
 
 ## Contract Layout
 
