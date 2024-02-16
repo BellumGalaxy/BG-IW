@@ -20,13 +20,13 @@ Oh, you are tough, aren't you? Let's keep going.
 **Under development.**
 
 ## Who is the target audience?
-This weapon will be build to be utilized by anyone. The goal is that after you take the "milk way" you never get lost again.
+This weapon will be built to be utilized by anyone. The goal is that after you take the "milk way" you never get lost again.
 
 *I hope that you get the reference*
 
 That being said, after finishing this journey, you will be a ruthless traveler who will fear no more. That will not depend on other people's opinions because you will know how to **DO YOUR RESEARCH**.
 
-## How this awesome, super, ultra weapon will be build?
+## How this awesome, super, ultra weapon will be built?
 ### Features
 - Blockchain basics
 - Web3 ecosystem
@@ -56,7 +56,7 @@ That being said, after finishing this journey, you will be a ruthless traveler w
 
 ## I want to help build this ASAP!
 Oh, thanks for demonstrating such courage, determination, and passion. We would love to get your help!
-Please let the other guys know that you want to help, they don't read minds like I did when you stated that.
+Please let the other guys know that you want to help they don't read minds like I did when you stated that.
 
 Enter our [discord](https://discord.gg/H2UpdzbbRJ) channel and send a message in "comunidade > chat-geral".
 
