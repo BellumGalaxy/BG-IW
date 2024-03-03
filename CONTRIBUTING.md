@@ -5,7 +5,6 @@ This document is a complete guide, and has links to specifics instructions. If y
 ## Team Members
 * @i3arba
 * @raffaloffredo
-* @lucasarchangelo
 
 ## Coding Style
 
